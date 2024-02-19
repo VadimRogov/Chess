@@ -1,6 +1,4 @@
-import entity.ChessBoard;
-import entity.Horse;
-import entity.Pawn;
+import entity.*;
 
 import java.util.Scanner;
 
